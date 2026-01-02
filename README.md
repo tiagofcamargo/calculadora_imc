@@ -49,8 +49,8 @@ calculadora-imc/
 
 ▶️ Como executar
 
-```bash
 python calculadora_imc.py
+```
 
 📊 Exemplo de saída
 Digite seu peso em kg: 80
