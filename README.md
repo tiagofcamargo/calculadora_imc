@@ -53,7 +53,7 @@ python calculadora_imc.py
 ```
 
 📊 Exemplo de saída
-Digite seu peso em kg: 80
-Digite sua altura: 1.80
-Seu IMC é: 24.69
-Peso normal
+- Digite seu peso em kg: 80
+- Digite sua altura: 1.80
+- Seu IMC é: 24.69
+- Peso normal
